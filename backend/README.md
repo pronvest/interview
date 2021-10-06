@@ -63,7 +63,7 @@ An analyst has developed an equation for predicting future stock prices. A clien
 * In this example, you would buy on day 2 (price = 1) and sell on day 5 (price = 6).
 
 2) `./app -bonus "7,6,4,3,1"  =>  0`
-* In this example, no buy or sells are done.
+* In this example, no buy or sells are performed.
 
 ## Submission
 
