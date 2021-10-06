@@ -45,7 +45,7 @@ A client wants to make a new investment of $10,000 into facebook. They want to b
 
 ####  Examples
 
-1) `./app -part3 BABA:1,TSLA:5,WISH:1200  =>  true`
+1) `./app -part3 "BABA:1,TSLA:5,WISH:1200"  =>  true`
 
 ## Submission
 
