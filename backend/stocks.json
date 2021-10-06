@@ -1,0 +1,27 @@
+[
+  {
+    "ticker": "BABA",
+    "name": "Alibaba Group Holding Ltd - ADR",
+    "close": 140.2
+  },
+  {
+    "ticker": "PLTR",
+    "name": "Palantir Technologies Inc",
+    "close": 23.2
+  },
+  {
+    "ticker": "FB",
+    "name": "Facebook, Inc. Common Stock",
+    "close": 323.95
+  },
+  {
+    "ticker": "TSLA",
+    "name": "Tesla Inc",
+    "close": 781.54
+  },
+  {
+    "ticker": "WISH",
+    "name": "ContextLogic Inc",
+    "close": 4.87
+  }
+]
