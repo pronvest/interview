@@ -49,7 +49,7 @@ A client wants to make a new investment of $10,000 into facebook. They want to b
 
 ## Bonus - Maximize profits
 
-An analyst has developed an equation for predicting future stock prices. A client wants to use this algorithm to place a buy order at the optimum time and one sell order at the optimum time. You are provided a list of `prices` where `prices[i]` is the price of a given stock on the `ith` day. You want to maximize your profit by choosing a single day to buy one stock and choosing one different day to sell in the future. Return the maximum profit that the client can achieve from this transaction. If the client cannot achieve any profit, then return 0.
+An analyst has developed an equation for predicting future stock prices. A client wants to use this algorithm to place a buy order at the optimum time and one sell order at the optimum time. You are provided a list of `prices` where `prices[i]` is the price of a given stock on the `ith` day. You want to maximize your profit by choosing a single day to buy one stock and choosing one different day to sell in the future. Due to trade restrictions, you may only place one buy order and one sell order. Return the maximum profit that the client can achieve from this transaction. If the client cannot achieve any profit, then return 0.
 
 ### Input
 `-bonus [<PRICE>]`
