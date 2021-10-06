@@ -47,3 +47,6 @@ A client wants to make a new investment of $10,000 into facebook. They want to b
 
 1) `./app -part3 BABA:1,TSLA:5,WISH:1200  =>  true`
 
+## Submission
+
+Please upload your sample application, along with execution instructions, to github and then send us the link to your repository.
