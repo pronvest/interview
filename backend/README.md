@@ -1,7 +1,7 @@
 
 # Future Capital Coding Interview
 
-To solve this challenge, feel free to use any and all resources available to you. You can also choose to solve the problem in whichever language you're most comfortable with. This challenge will consist of three parts. 
+To solve this challenge, feel free to use any and all resources available to you. You can also choose to solve the problem in whichever language you're most comfortable with. This challenge will consist of three parts and a bonus question. 
 
 ##  Part  1  -  Calculate  the  total  value  of  a  stock  portfolio
 
@@ -46,6 +46,24 @@ A client wants to make a new investment of $10,000 into facebook. They want to b
 ####  Examples
 
 1) `./app -part3 "BABA:1,TSLA:5,WISH:1200"  =>  true`
+
+## Bonus - Maximize profits
+
+An analyst has developed an equation for predicting future stock prices. A client wants to use this algorithm to place a buy order at the optimum time and one sell order at the optimum time. You are provided a list of `prices` where `prices[i]` is the price of a given stock on the `ith` day. You want to maximize your profit by choosing a single day to buy one stock and choosing one different day to sell in the future. Return the maximum profit that the client can achieve from this transaction. If the client cannot achieve any profit, then return 0.
+
+### Input
+`-bonus [<PRICE>]`
+
+### Output
+`<PROFIT>`
+
+#### Examples
+
+1) `./app -bonus "7,1,5,3,6,4"  =>  5` 
+* In this example, you would buy on day 2 (price = 1) and sell on day 5 (price = 6).
+
+2) `./app -bonus "7,6,4,3,1"  =>  0`
+* In this example, no buy or sells are done.
 
 ## Submission
 
