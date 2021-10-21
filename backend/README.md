@@ -21,7 +21,7 @@ A sample stock portfolio is passed in as an argument to a console application. Y
 
 ## Part 2 - Maximize profits
 
-An analyst has developed an equation for predicting future stock prices. A client wants to use this algorithm to place a buy order at the optimum time and one sell order at the optimum time. You are provided a list of `prices` where `prices[i]` is the price of a given stock on the `ith` day. You want to maximize your profit by choosing a single day to buy one stock and choosing one different day to sell in the future. Due to trade restrictions, you may only place one buy order and one sell order. Return the maximum profit that the client can achieve from this transaction. If the client cannot achieve any profit, then return 0.
+An analyst has developed an equation for predicting future stock prices. A client wants to use this algorithm to place a buy order at the optimum time and one sell order at the optimum time. You are provided a list of `prices` where `prices[i]` is the price of a given stock on the `ith` day. You want to maximize your profit by choosing a single day to buy one stock and choosing one different day to sell in the future. Due to trade restrictions, you may only place one buy order and one sell order. Return the maximum profit that the client can achieve from this transaction. If the client cannot achieve any profit, then return 0. Your application should work for any random list of prices.
 
 ### Input
 `-part2 [<PRICE>]`
