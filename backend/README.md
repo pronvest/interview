@@ -5,7 +5,7 @@ To solve this challenge, feel free to use any and all resources available to you
 
 ##  Part  1  -  Calculate  the  total  value  of  a  stock  portfolio
 
-A sample stock portfolio is passed in as an argument to a console application. Your application should parse this input, lookup the stock price at close from the sample [stocks.json](https://raw.githubusercontent.com/pronvest/interview/master/backend/stocks.json) file, and then return the total value of the portfolio.
+A sample stock portfolio is passed in as an argument to a console application. Your application should parse this input, lookup the current stock price at close from the sample [stocks.json](https://raw.githubusercontent.com/pronvest/interview/master/backend/stocks.json) feed file, and then return the total value of the portfolio.
 
 ### Input
 `-part1 [<TICKER>:<QUANTITY>]`
