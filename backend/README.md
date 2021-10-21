@@ -13,7 +13,7 @@ A sample stock portfolio is passed in as an argument to a console application. Y
 ### Output
 `<TOTAL>`
 
-###  Examples
+###  Test Cases
 
 1) `./app -part1 "FB:12,PLTR:5000"  =>  119887.4`
 
@@ -29,7 +29,7 @@ An analyst has developed an equation for predicting future stock prices. A clien
 ### Output
 `<PROFIT>`
 
-#### Examples
+### Test Cases
 
 1) `./app -bonus "7,1,5,3,6,4"  =>  5` 
 * In this example, you would buy on day 2 (price = 1) and sell on day 5 (price = 6) for a profit of 5.
